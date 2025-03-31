@@ -7,8 +7,6 @@ A collection of tools and utilities for use with the Unity by **Playvue Games LL
 - Editor Post Build version auto-incrementer
 - ECS Dispatcher & Manager System (tested with Unity Physics 1.3.10)
 
-## Usage
-
 ## License
 
 This project is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.
